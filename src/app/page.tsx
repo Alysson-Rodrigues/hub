@@ -20,8 +20,8 @@ export default function Home() {
           </div>
         </Link>
       </Card>
-      <Card className="w-full mt-2 flex items-center p-4 mb-16">
-        <Link href="/https://api.whatsapp.com/send?phone=5566981497355&text=Ol%C3%A1!%20Te%20achei%20pelo%20instagram!">
+      <Card className="w-full mt-2 flex items-center p-4">
+        <Link href="https://api.whatsapp.com/send?phone=5566981497355&text=Ol%C3%A1!%20Te%20achei%20pelo%20instagram!">
           <div>
             <h2 className="font-dalek text-primary">Entre em contato comigo</h2>
             <p className="break-words">Meu WhatsApp!</p>
